@@ -1,0 +1,18 @@
+{
+  "htmlErrors": 0,
+  "localLinksMissing": [],
+  "scriptSyntax": "passed",
+  "responsive": "6 pages x 4 widths, no document overflow",
+  "functional": {
+    "laundryFilter": 3,
+    "premiumLaundry": 1,
+    "gallery": "2 views",
+    "quantityPersisted": 2,
+    "totalWithCouponAndDelivery": 29254,
+    "requiredName": true,
+    "orderConfirmation": true,
+    "consoleErrors": 0
+  },
+  "browser": "Integrated Chromium",
+  "edge": "Not verified: Computer Use stopped because it could not reliably determine the active browser URL."
+}
